@@ -22,7 +22,7 @@
   justify-content: center;
   height: 100%;
   position: relative;
-    width: 100%;
+  width: 100%;
 
 }
 .top {
@@ -70,12 +70,12 @@
 
 .rate {
   background-color: var(--Light-Grayish-Magenta);
-  margin: 0 1rem 2rem 1em;
+  margin: 0 1rem 2rem 1rem;
   border-radius: 5px;
   padding-bottom: 1.2rem;
 }
 .rate img {
-  padding: 1.2rem 0.2rem 1rem 0.2rem;
+  padding: 1.2rem 0.2rem 1rem 0rem;
 }
 .rate p {
   color: var(--Very-Dark-Magenta);
@@ -146,6 +146,7 @@ body{
 .container{
   height: 100vh;
   width: 100%;
+
   
 }
 .desktop-content{
@@ -191,7 +192,7 @@ text-align: left;
  padding-bottom: 0;
  padding-right: 4rem;
  margin-bottom: 1.5rem;
- justify-content: space-between;
+ justify-content: space-evenly;
 
   
 }
@@ -204,9 +205,7 @@ text-align: left;
   margin-left: 8rem;
 }
 
-.stars{
-padding-left: 1.5rem;
-}
+
 .rate p{
   align-content: center;
   text-align: center;
